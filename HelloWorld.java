@@ -6,5 +6,7 @@ class HelloWorld {
         // hej
         // Jonas
         System.out.prinln("TestatestJonas")
+    //  hej hej
+        System.out.println("hejsan från Humlan också!");
     }
 }
