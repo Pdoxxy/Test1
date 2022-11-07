@@ -7,6 +7,6 @@ class HelloWorld {
         // Jonas
         System.out.prinln("TestatestJonas")
     //  hej hej
-        System.out.println("hejsan från Humlan också!");
+        System.out.println("hejsan från david också!");
     }
 }
