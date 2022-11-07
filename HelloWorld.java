@@ -8,5 +8,6 @@ class HelloWorld {
         System.out.prinln("TestatestJonas")
     //  hej hej
         System.out.println("hejsan från david också!");
+        System.out.println("Sluta säga hej")
     }
 }
