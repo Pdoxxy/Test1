@@ -5,6 +5,6 @@ class HelloWorld {
         System.out.println("hejsan från david också!");
         // hej
     //  hej hej
-        System.out.println("hejsan från Humlan också!");
+        System.out.println("hejsan från david också!");
     }
 }
